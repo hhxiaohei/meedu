@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>MeEdu后台管理系统</title>
+    <title>在线教育后台管理系统</title>
     <link crossorigin="anonymous" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" href="https://lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link crossorigin="anonymous" integrity="sha384-sr24+N5hvbO83z6WV4A9zRt0bXHxKxmHiE2MliCVO6ic+CIbnJsqndMaaM6kdShS" href="https://lib.baomitu.com/flatpickr/4.5.2/flatpickr.min.css" rel="stylesheet">
     <link href="/backend/assets/css/dashboard.css" rel="stylesheet" />
@@ -18,7 +18,7 @@
         <div class="header py-4">
             <div class="container">
                 <div class="d-flex">
-                    <a class="header-brand" href="{{route('backend.dashboard.index')}}">MeEdu</a>
+                    <a class="header-brand" href="{{route('backend.dashboard.index')}}">在线教育平台</a>
                     <div class="d-flex order-lg-2 ml-auto">
                         <div class="dropdown">
                             <a href="#" class="nav-link pr-0 leading-none" data-toggle="dropdown">
@@ -75,15 +75,8 @@
     <footer class="footer">
         <div class="container">
             <div class="row align-items-center flex-row-reverse">
-                <div class="col-auto ml-lg-auto">
-                    <div class="row align-items-center">
-                        <div class="col-auto">
-                            <a href="https://github.com/Qsnh/meedu" class="btn btn-outline-primary btn-sm">源代码</a>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
-                    Copyright © 2018 <a href="https://github.com/Qsnh/meedu">MeEdu</a>. Created by <a href="https://58hualong.cn" target="_blank">@XiaoTeng</a> All rights reserved.
+                    Created by @Mike All rights reserved.
                 </div>
             </div>
         </div>

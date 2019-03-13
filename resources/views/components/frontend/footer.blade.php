@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-sm">
                         <h3>关于我们</h3>
-                        <p>MeEdu是基于Laravel开发的开源的，免费的在线教育点播系统。</p>
+                        <p>这是一个在线教育点播系统。</p>
                     </div>
                     <div class="col-sm">
                         <h3>帮助</h3>
@@ -21,7 +21,7 @@
                     </div>
 
                     <div class="col-sm-12">
-                        <p>Copyright MeEdu 2018.</p>
+                        <p>Copyright Mike 2019</p>
                     </div>
 
                 </div>
