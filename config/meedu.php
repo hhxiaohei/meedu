@@ -97,24 +97,24 @@ return [
     // SEO
     'seo' => [
         'index' => [
-            'title' => 'MeEdu',
+            'title' => '在线点播系统',
             'keywords' => '',
-            'description' => 'MeEdu是一套开源的，免费的在线视频点播系统。',
+            'description' => '在线点播系统。',
         ],
         'course_list' => [
             'title' => '所有课程',
             'keywords' => '',
-            'description' => 'MeEdu是一套开源的，免费的在线视频点播系统。',
+            'description' => '在线点播系统。',
         ],
         'role_list' => [
             'title' => 'VIP',
             'keywords' => '',
-            'description' => 'MeEdu是一套开源的，免费的在线视频点播系统。',
+            'description' => '在线点播系统。',
         ],
         'book_list' => [
             'title' => '电子书',
             'keywords' => '',
-            'description' => 'MeEdu是一套开源的，免费的在线视频点播系统。',
+            'description' => '在线点播系统。',
         ],
     ],
 
@@ -155,10 +155,10 @@ return [
     ],
 
     // MeEduCloud
-    'cloud' => [
-        'client_id' => 2,
-        'client_secret' => 'MUe00r1VZ5PnT3R5vR3Em3W343YEzmAdrB48ZgYG',
-        'username' => env('MEEDU_CLOUD_USERNAME', ''),
-        'password' => env('MEEDU_CLOUD_PASSWORD', ''),
-    ],
+//    'cloud' => [
+//        'client_id' => 2,
+//        'client_secret' => 'MUe00r1VZ5PnT3R5vR3Em3W343YEzmAdrB48ZgYG',
+//        'username' => env('MEEDU_CLOUD_USERNAME', ''),
+//        'password' => env('MEEDU_CLOUD_PASSWORD', ''),
+//    ],
 ];

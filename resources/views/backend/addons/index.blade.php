@@ -44,7 +44,7 @@
                     @empty
                     <tr>
                         <td colspan="4" class="text-center">
-                            暂无插件，前去挑选 <a href="https://meedu.vip" target="_blank">应用商店</a>
+                            {{--暂无插件，前去挑选 <a href="https://meedu.vip" target="_blank">应用商店</a>--}}
                         </td>
                     </tr>
                 @endforelse
