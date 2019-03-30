@@ -4,11 +4,11 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-sm index-banner text-center">
-                <h1>书山有路勤为径，学海无涯苦作舟</h1>
-                <h4>你想要的，这里都有！</h4>
+            <div class="col-sm index-banner text-center" style="background-color: #495057;">
+                <h1>学习本无底，前进莫徬徨</h1>
+                <h4> 投资自己，回报终身！</h4>
                 <p class="button">
-                    <a href="{{ route('courses') }}">立即订阅</a>
+                    <a href="/vip">立即订阅</a>
                 </p>
             </div>
         </div>

@@ -1,7 +1,7 @@
 <div class="col-sm-12">
     <div class="alert alert-primary comment-alert" role="alert">
         <p>1.支持Markdown语法</p>
-        <p>2.支持 @ 某个人，格式：<code>@昵称+一个空格</code>，如：<code>@小滕 </code></p>
+        <p>2.支持 @ 某个人，格式：<code>@昵称+一个空格</code>，如：<code>@MIke </code></p>
         <p>3.支持拖拽图片到评论框上传</p>
         <p>4.支持emoji表情</p>
     </div>
